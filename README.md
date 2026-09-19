@@ -165,7 +165,7 @@ For SEO masters, maybe those amount of website traffic is too ordinary. However,
 [Prerender](https://prerender.io/)
 > Prerender serves 100% cached versions of your web pages to search engine bots that have problems executing JavaScript.
 
-> - [AI Crawler Blocking Study](https://github.com/yasiragha-py/ai-crawler-blocking-study)
+> [AI Crawler Blocking Study](https://github.com/yasiragha-py/ai-crawler-blocking-study)
 Open-source dataset and scraper checking robots.txt rules for six major AI crawlers across 98 websites.
 
 [GEO/AEO Tracker](https://github.com/danishashko/geo-aeo-tracker)
